@@ -8,7 +8,6 @@
 
 <a href="https://www.linkedin.com/in/suryansh-chaturvedi-0bb431192/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:suryansh.official100@gmail.com"><img src="https://img.shields.io/badge/Email-C9D1D9?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Open%20to%20work-2EA043?style=for-the-badge&logoColor=white" alt="Open to work" />
 <img src="https://img.shields.io/badge/Based%20in-India-FF9933?style=for-the-badge&logoColor=white" alt="India" />
 
 </div>
@@ -147,13 +146,14 @@ Python  ·  Llama 2  ·  RAG  ·  Pinecone
 
 <div align="center">
 
-### Currently
+### Get in touch
 
-Looking for **senior full-stack or backend roles in India** — payments, fintech, or anything with
-a hard systems problem underneath it.
-**Available immediately · Open to relocation.**
+Always happy to talk about payments infrastructure, storage engines, or anything with a hard
+systems problem underneath it.
 
 <a href="mailto:suryansh.official100@gmail.com"><b>suryansh.official100@gmail.com</b></a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/suryansh-chaturvedi-0bb431192/"><b>LinkedIn</b></a>
 
 <br/><br/>
 
