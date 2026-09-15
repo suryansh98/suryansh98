@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=150&section=header&text=Suryansh%20Chaturvedi&fontSize=44&fontColor=FFFFFF&fontAlignY=32&desc=Full-Stack%20Engineer%20%E2%80%A2%20Payments%20%26%20Fintech&descSize=17&descAlignY=54" width="100%" alt="Suryansh Chaturvedi" />
+<img src="./assets/banner.svg" width="100%" alt="Suryansh Chaturvedi" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=660&lines=I+build+systems+that+move+real+money;%E2%82%AC42M+a+month%2C+across+European+payment+rails;Currently+writing+a+database+from+scratch+in+Go" alt="" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3400&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Writing+code+since+I+was+13;Currently+building+a+database+from+scratch+in+Go;Storage+engines%2C+write-ahead+logs%2C+query+planners" alt="" />
 
 <br/>
 
@@ -16,18 +18,14 @@
 
 ## Hello
 
-I'm a full-stack engineer with **4+ years** building payments, fintech and ERP systems in
-TypeScript, React, Node.js and Go. I started out in DevOps at **Microsoft India**, and I hold an
-**MSc in Computer Science** from **Universität Heidelberg**.
+I'm Suryansh. I started writing code at 13 and never really found a reason to stop.
 
-Right now I own bank-to-bank payments at a German B2B fintech moving **€42M a month** — bank API
-integration, instant transfers, reconciliation and webhook delivery across European rails
-(PSD2 Open Banking, SEPA). I've also shipped a cloud ERP's procure-to-pay module with three-way
-invoice matching, and diagnostic tooling at Microsoft used by SRE teams watching thousands of
-enterprise tenants.
+What I like is the layer underneath the framework — storage engines, write-ahead logs, query
+planners. The stuff you only understand properly by building one badly first, which is roughly
+how the database below came about.
 
-What I actually enjoy is the layer underneath the framework — storage engines, write-ahead logs,
-query planners. The kind of thing you only understand properly by building one yourself.
+Off the keyboard I'm usually watching anime, or losing an evening to someone's blog post about
+how their database survives a power cut. Occasionally both at once.
 
 <br/>
 
@@ -43,19 +41,6 @@ query planners. The kind of thing you only understand properly by building one y
 An embedded database engine written from scratch in Go — with **zero third-party dependencies.**
 Standard library only.
 
-- Paged storage, B+tree indexes, LRU buffer pool
-- Write-ahead log, SQLite-style crash recovery
-- Per-frame CRC and torn-write detection
-- Recovery proven by a fault-injecting filesystem
-- Hand-written SQL parser and query planner
-- Live event-stream visualiser (`xray`)
-
-```
-~7k LOC  ·  76% coverage  ·  0 dependencies
-```
-
-<img src="https://skillicons.dev/icons?i=go,react" height="32" alt="Go, React" />
-
 </td>
 <td width="50%" valign="top">
 
@@ -64,10 +49,43 @@ Standard library only.
 
 A four-person MSc NLP project at Universität Heidelberg. I built the LLM answering layer.
 
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+- Paged storage, B+tree indexes, LRU buffer pool
+- Write-ahead log, SQLite-style crash recovery
+- Per-frame CRC and torn-write detection
+- Recovery proven by a fault-injecting filesystem
+- Hand-written SQL parser and query planner
+- Live event-stream visualiser (`xray`)
+
+</td>
+<td valign="top">
+
 - PubMed abstracts scraped, cleaned and chunked
 - Chunk embeddings indexed in a Pinecone vector DB
 - Answering layer on **Llama-2-13b-chat**
 - Evaluated against a generated question set
+- Retrieval and generation split into own stages
+- Team project, written up as an MSc report
+
+</td>
+</tr>
+
+<tr>
+<td valign="bottom">
+
+```
+~7k LOC  ·  76% coverage  ·  0 dependencies
+```
+
+<img src="https://skillicons.dev/icons?i=go,react" height="32" alt="Go, React" />
+
+</td>
+<td valign="bottom">
 
 ```
 Python  ·  Llama 2  ·  RAG  ·  Pinecone
@@ -148,8 +166,8 @@ Python  ·  Llama 2  ·  RAG  ·  Pinecone
 
 ### Get in touch
 
-Always happy to talk about payments infrastructure, storage engines, or anything with a hard
-systems problem underneath it.
+Always happy to talk about storage internals, payments plumbing, or anything with a hard systems
+problem underneath it.
 
 <a href="mailto:suryansh.official100@gmail.com"><b>suryansh.official100@gmail.com</b></a>
 &nbsp;·&nbsp;
@@ -157,6 +175,6 @@ systems problem underneath it.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=100&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />
 
 </div>
